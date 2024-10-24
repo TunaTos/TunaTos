@@ -3,6 +3,8 @@
 ### 📊 Solved.ac Profile:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=busalee)](https://solved.ac/busalee/)
 
+![mazandi profile](https://mazandi.herokuapp.com/api?handle=busalee&theme=dark)
+
 ### 🌟 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunaTos&layout=compact)
 
