@@ -52,7 +52,7 @@
 ---
 
 ### 🌱 I’m currently learning:
-- **Rust**
+- **Rust ⭐⭐**
 - **Linux (Server & Client side)**
 - **Advanced C++ concepts**
 
