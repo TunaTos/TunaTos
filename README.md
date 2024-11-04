@@ -47,7 +47,7 @@
 ---
 
 ### 🔨 Currently Working On:
-- **42 Gyeongsan Libft Project**
+- **Being a Rustarian**
 
 ---
 
